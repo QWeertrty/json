@@ -8,45 +8,6 @@
   "username": "username 2",
   "password": "password 2",
   "id": "2"
- },
- {
-  "username": "username 3",
-  "password": "password 3",
-  "id": "3"
- },
- {
-  "username": "username 4",
-  "password": "password 4",
-  "id": "4"
- },
- {
-  "username": "username 5",
-  "password": "password 5",
-  "id": "5"
- },
- {
-  "username": "username 6",
-  "password": "password 6",
-  "id": "6"
- },
- {
-  "username": "username 7",
-  "password": "password 7",
-  "id": "7"
- },
- {
-  "username": "username 8",
-  "password": "password 8",
-  "id": "8"
- },
- {
-  "username": "username 9",
-  "password": "password 9",
-  "id": "9"
- },
- {
-  "username": "username 10",
-  "password": "password 10",
-  "id": "10"
  }
+
 ]
